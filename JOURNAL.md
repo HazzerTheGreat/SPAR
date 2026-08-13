@@ -24,6 +24,6 @@ magnetic field sensing to produce a compass heading.
 handle 600mA continuous. I decided to go for the AP1509-50SG-13 for the 5V rail as it can provide 2A which will be necessary for servos,
 lights ETC when not using a BEC output from the ESC
 
-![MCU_Selection](IMAGES/Screenshot 2026-08-13 170154.png)
+![MCU_Selection](IMAGES/MCU)
 
 **Total Time Spent: 2 hours**
