@@ -45,3 +45,13 @@ Next I will add the peripherals and sort out UARTs as per betaflight's recommend
 that will make it stand out
 
 **Total Time Spent: 2 hours**
+
+# 14th of August: Planned out pin functions using cubeMX
+
+I needed to plan out which pins I was going to use for the various UARTS and peripherals while making sure they did not clash. CubeMX files
+will not be needed by INAV or BetaFlight but it is very useful in planning. I have not allocated misc pins such as beeper or lights as that
+can be any GPIO pin
+
+![Schematic_block](IMAGES/mcu_config)
+
+**Total Time Spent: 1 hour**
