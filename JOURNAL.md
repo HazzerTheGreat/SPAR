@@ -6,7 +6,7 @@ created_at: "2026-08-13"
 ---
 
 
-# 15th of August: Hardware selection and research
+# 13th of August: Hardware selection and research
 
 In terms of hardware, I made the following selections:
 
@@ -25,5 +25,23 @@ handle 600mA continuous. I decided to go for the AP1509-50SG-13 for the 5V rail 
 lights ETC when not using a BEC output from the ESC
 
 ![MCU_Selection](IMAGES/MCU)
+
+**Total Time Spent: 2 hours**
+
+
+# 14th of August: STM32 schematic setup
+
+I spent some time drawing up the base schematic for the STM32H743 microcontroller setting up all the required components such as: 
+
+- Power Input and decoupling
+- 25mHz oscillator
+- 32.768kHz oscillator for RTC
+- SD card slot for black box logging in SDMMC 1 bit mode for simplicity
+- BOOT0 connecter for entering DFU mode
+
+![Schematic_block](IMAGES/mcu_initschematic)
+
+Next I will add the peripherals and sort out UARTs as per betaflight's recommendation and then I will think about some extra features
+that will make it stand out
 
 **Total Time Spent: 2 hours**
