@@ -63,6 +63,6 @@ soon. I also added a USB C port with proper ESD protection and I added a 5V buck
 peripherals and LDO for the MCU. I then added a 2 channel ideal diode to handle switching between USB 5V and the 5V coming from the battery
 buck. Might have made some mistakes so will check through.
 
-![Schematic_block](IMAGES/pwr_setup
+![Schematic_block](IMAGES/pwr_setup)
 
 **Total Time Spent: 2 hours**
