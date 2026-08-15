@@ -55,3 +55,14 @@ can be any GPIO pin
 ![Schematic_block](IMAGES/mcu_config)
 
 **Total Time Spent: 1 hour**
+
+# 15th of August: Power setup and pin mapping
+
+I mapped the pins in the schematic to their various functions including all the UARTS and I2C and SPI which I will wire up to the sensors
+soon. I also added a USB C port with proper ESD protection and I added a 5V buck to convert the battery voltage into the 5V used by the 
+peripherals and LDO for the MCU. I then added a 2 channel ideal diode to handle switching between USB 5V and the 5V coming from the battery
+buck. Might have made some mistakes so will check through.
+
+![Schematic_block](IMAGES/pwr_setup
+
+**Total Time Spent: 2 hours**
