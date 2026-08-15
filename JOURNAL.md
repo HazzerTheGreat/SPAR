@@ -66,3 +66,12 @@ buck. Might have made some mistakes so will check through.
 ![Schematic_block](IMAGES/pwr_setup)
 
 **Total Time Spent: 2 hours**
+
+# 15th of August: Sensor Setup and 9V buck
+
+I wired up the 3 sensors with SPI and I2C. I also added a 9V buck to step down VBAT to 9V for a HD VTX such as a DJI O3 or runcam wifilink.
+I also corrected an error with my buck converter where feedback node was connected before inductor and not after.
+
+![Schematic_block](IMAGES/sensor_setup)
+
+**Total Time Spent: 1 hour**
