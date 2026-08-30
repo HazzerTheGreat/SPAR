@@ -84,4 +84,4 @@ due to its price and availability as I wanted it to be analog friendly and added
 
 ![Schematic_block](IMAGES/osd)
 
-**Total Time Spent: 2 hours**
+**Total Time Spent: 1.5 hours**
