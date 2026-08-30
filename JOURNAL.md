@@ -75,3 +75,13 @@ I also corrected an error with my buck converter where feedback node was connect
 ![Schematic_block](IMAGES/sensor_setup)
 
 **Total Time Spent: 1 hour**
+
+# 30th of August: Sensor changes and OSD
+
+Due to being extremely sensitive to interference, I have decided to remove the magnetometer and instead add the option to add one externally
+and have also added the option for an airspeed sensor on the same I2C bus as the barometer. I have now added an analog OSD using the AT7456E
+due to its price and availability as I wanted it to be analog friendly and added the corresponding JST connectors for the VTX and camera.
+
+![Schematic_block](IMAGES/osd)
+
+**Total Time Spent: 2 hours**
