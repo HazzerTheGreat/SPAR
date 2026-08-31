@@ -92,6 +92,6 @@ I finalized the schematic and corrected some small errors here and there. I bega
 the oscillator. I then setup the 5V and 9V buck converters based on TI's reference layout guide making sure to be mindful of where different
 power planes will be. I then planned the layout of the board and will soon move components into place and begin to route.
 
-![Schematic_block](IMAGES/Layout1)
+![Schematic_block](IMAGES/Layout1.png)
 
 **Total Time Spent: 2 hours**
