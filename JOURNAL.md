@@ -85,3 +85,13 @@ due to its price and availability as I wanted it to be analog friendly and added
 ![Schematic_block](IMAGES/osd)
 
 **Total Time Spent: 1.5 hours**
+
+# 31st of August: Finalizing schematic and layout setup
+
+I finalized the schematic and corrected some small errors here and there. I began the layout with the STM32H7 and it's various passives and
+the oscillator. I then setup the 5V and 9V buck converters based on TI's reference layout guide making sure to be mindful of where different
+power planes will be. I then planned the layout of the board and will soon move components into place and begin to route.
+
+![Schematic_block](IMAGES/Layout1)
+
+**Total Time Spent: 2 hours**
