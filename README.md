@@ -20,3 +20,4 @@ Specs:
 - 6 other PWM outputs
 - Analog OSD through AT7456E
 - Support for external magnetometer, airspeed sensor and GPS
+- BMP280 barometer for altitude measurements
