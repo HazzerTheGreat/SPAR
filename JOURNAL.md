@@ -104,3 +104,10 @@ fixed wing FC's but that is due to it being all on one board (power management, 
 ![Schematic_block](IMAGES/pcb1.png)
 
 **Total Time Spent: 1 hour**
+
+# 1st of September: Power layout
+
+I finished laying out all the components and I added the inner ground plane and power rails for ease of layout. I made a ground moat around the 
+highly sensitive sensors and fed them through a filtered 3.3V power to remove unwanted noise and provide a clean output.
+
+![Schematic_block](IMAGES/powerlayout.png)
