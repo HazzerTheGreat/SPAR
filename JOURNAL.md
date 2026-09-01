@@ -113,3 +113,12 @@ highly sensitive sensors and fed them through a filtered 3.3V power to remove un
 ![Schematic_block](IMAGES/powerlayout.jpg)
 
 **Total Time Spent: 2 hours**
+
+# 1st of September: Main Routing
+
+I finished off some routing using a priority of high speed and analog signals first and power rails and worked down to UARTs and PWMs. Some more
+routing is needed but then the board should be complete.
+
+![Schematic_block](IMAGES/pcb2.png)
+
+**Total Time Spent: 1 hour**
