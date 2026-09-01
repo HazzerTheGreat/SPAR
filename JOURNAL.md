@@ -95,3 +95,12 @@ power planes will be. I then planned the layout of the board and will soon move 
 ![Schematic_block](IMAGES/Layout1.png)
 
 **Total Time Spent: 2 hours**
+
+# 1st of September: PCB layout progress
+
+I spent some time making progress on the PCB layout and planning the dimensions of the board. The form factor is a bit larger than most other 
+fixed wing FC's but that is due to it being all on one board (power management, FC etc).
+
+![Schematic_block](IMAGES/pcb1.png)
+
+**Total Time Spent: 1 hour**
