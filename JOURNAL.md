@@ -110,6 +110,6 @@ fixed wing FC's but that is due to it being all on one board (power management, 
 I finished laying out all the components and I added the inner ground plane and power rails for ease of layout. I made a ground moat around the 
 highly sensitive sensors and fed them through a filtered 3.3V power to remove unwanted noise and provide a clean output.
 
-![Schematic_block](IMAGES/powerlayout.png)
+![Schematic_block](IMAGES/powerlayout.jpg)
 
 **Total Time Spent: 2 hours**
