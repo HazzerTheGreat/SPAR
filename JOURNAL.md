@@ -111,3 +111,5 @@ I finished laying out all the components and I added the inner ground plane and 
 highly sensitive sensors and fed them through a filtered 3.3V power to remove unwanted noise and provide a clean output.
 
 ![Schematic_block](IMAGES/powerlayout.png)
+
+**Total Time Spent: 2 hours**
