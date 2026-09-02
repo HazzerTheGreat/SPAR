@@ -122,3 +122,23 @@ routing is needed but then the board should be complete.
 ![Schematic_block](IMAGES/pcb2.png)
 
 **Total Time Spent: 1 hour**
+
+# 2nd of September: A new look
+
+After some consideration I decided to redo the board design, layout and routing, pretty much just starting the PCB from scratch. This was for a couple
+of reasons:
+
+- V1 was too big
+- The power planes were split in several places which somewhat defeated their purpose
+- Signals were here there and everywhere (traces too long)
+- Poor component placement
+
+So I started from scratch on the layout and drew up on paper where the optimal location for each component was in terms of routing to the STM32H7, power
+access, and importantly for the analog component - EMI. I have layed out most components (not all passives done yet) and set up the power rails. The board
+is now much more compact and dense at 48mm x 58mm. While this may seem like backtracking on my issues, I have switched to a 6 layer PCB with a stackup of
+Mixed - Ground - Signal - Power - Ground - Mixed. This is common for boards of this complexity and size and has really made the layout so much easier. I 
+will slowly work to get the layout finished and then after that it is time for manufacturing.
+
+![New_Design](IMAGES/pcb3.png)
+
+**Total Time Spent: 2 hours**
