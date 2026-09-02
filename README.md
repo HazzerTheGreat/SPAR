@@ -1,6 +1,6 @@
 # SPAR
 
-![SPAR](IMAGES/FlightController.png)
+![SPAR](IMAGES/pcb3.png)
 
 This is a flight controller primarily designed for fixed wing aircraft (or quadcopters etc) that is designed to 
 run either BetaFlight, INAV or ArduPilot firmware. It handles flight stabilization, OSD, control of servos, waypoints,
