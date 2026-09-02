@@ -142,3 +142,15 @@ will slowly work to get the layout finished and then after that it is time for m
 ![New_Design](IMAGES/pcb3.png)
 
 **Total Time Spent: 2 hours**
+
+# 2nd of September: Complete (I hope)
+
+I feel much better about this board after I shifted course and redesigned the layout completely. I spent the last couple of hours routing signals, power,
+doing fills etc. The board is now in a complete/awaiting any minor tweaks or finishing touches. I think I will add some more silkscreen text on different
+parts of the board but apart from that I hope that there is nothing else to do.
+
+![Finished_3D](IMAGES/pcb4.png)
+
+![Finished_schematic](IMAGES/pcb5.png)
+
+**Total Time Spent: 2 hours**
