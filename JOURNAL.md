@@ -154,3 +154,11 @@ parts of the board but apart from that I hope that there is nothing else to do.
 ![Finished_schematic](IMAGES/pcb5.png)
 
 **Total Time Spent: 2 hours**
+
+# 3rd of September: Finishing touches
+
+I was right and there were some issues to iron out but I now think that has all been done. The next step will be to write the code for INAV configuration.
+
+![Finished_3D](IMAGES/pcb6.png)
+
+**Total Time Spent: 1 hour**
