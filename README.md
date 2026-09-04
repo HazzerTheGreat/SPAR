@@ -26,7 +26,7 @@ Specs:
 
 BOM:
 
-Capacitors
+**Capacitors**
 
 3× 0402 2.2uF
 
@@ -46,7 +46,7 @@ Capacitors
 
 1× 0402 4.7uF
 
-Resistors
+**Resistors**
 
 5× 0603 10k
 
@@ -64,7 +64,7 @@ Resistors
 
 1× 0603 200Ω
 
-ICs / semiconductors
+**ICs / semiconductors**
 
 1× ICM-42688-P
 
@@ -82,13 +82,13 @@ ICs / semiconductors
 
 1× USBLC6-2SC6
 
-Inductors / ferrites
+**Inductors / ferrites**
 
 2× 10uH (L5.2×W5.2)
 
 2× 600Ω @ 100MHz ferrite bead, 0603
 
-Oscillators
+**Oscillators**
 
 1× 25MHz SMD oscillator
 
@@ -96,7 +96,7 @@ Oscillators
 
 1× 32.768kHz SMD oscillator
 
-Connectors
+**Connectors**
 
 5× 1.0mm pitch 4-pin SMD connector
 
@@ -118,8 +118,8 @@ Connectors
 
 1× 3-pin SMD CAM connector
 
-LED
+**LED**
 
 1× 0603 LED (PD9)
 
-Rough total ~£45
+**Rough total ~£45**
