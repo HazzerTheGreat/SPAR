@@ -123,3 +123,5 @@ BOM:
 1× 0603 LED (PD9)
 
 **Rough total ~£45**
+
+The board costs about £27 from JLCPCB
