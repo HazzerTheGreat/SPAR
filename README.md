@@ -24,6 +24,13 @@ Specs:
 
 ![SPAR](IMAGES/Final_page-0001.jpg)
 
+**Firmware/flashing:**
+
+This board does not have custom firmware, it is based on INAV.
+However a custom build of INAV including relevant target configuration is required.
+I will put this in the software folder.
+To flash the board, the board must be powered up with the boot0 pin shorted to enter DFU mode on the STM32 where it can then be flashed in INAV configurator.
+
 BOM:
 
 **Capacitors**
