@@ -24,6 +24,12 @@ built it myself.
 
 ![SPAR](IMAGES/Final_page-0001.jpg)
 
+**Peripherals:**
+
+![SPAR](IMAGES/wiringdiagram.jpg)
+
+The flight controller board has connectors for external airspeed, GPS, and mag sensors as well as plugs for ELRS, 4 in 1 ESC, analog camera, analog VTX, digital VTX and PWM LEDs.
+
 **Firmware/flashing:**
 
 This board does not have custom firmware, it is based on INAV.
