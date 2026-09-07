@@ -37,7 +37,7 @@ However a custom build of INAV including relevant target configuration is requir
 I will put this custom target in the /Project_Files/INAV folder. This tutorial shows how to build INAV with a custom target: https://youtu.be/ThrsS_y9zDo?si=cllAaaTRHZ6ADbW4
 To flash the board, the board must be powered up with the boot0 pin shorted to enter DFU mode on the STM32 where it can then be flashed in INAV configurator.
 
-BOM:
+**BOM:**
 
 **Capacitors**
 
