@@ -10,7 +10,7 @@ but it can accomodate for the most demanding projects. I made it as I was intere
 and also enjoy building aircraft and could find a highly capable flight controller useful plus the benefit that I have
 built it myself.
 
-Specs:
+**Specs:**
 
 - ICM-42688-P for peak performance and high resolution positional sensing
 - STM32H743 for processing whatever you need
